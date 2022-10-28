@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AidaBenAziza
+- 👋 Hi, I’m Aida Ben Aziza
 - 👀 I’m interested in machine learning and data science.
 - 🌱 I’m currently a research engineer with specialization in machine learning and AI.
 - 💞️ I’m looking to collaborate on researchs in machine learning...
