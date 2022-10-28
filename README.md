@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AidaBenAziza
 - 👀 I’m interested in machine learning and data science.
-- 🌱 I’m currently a research engineer in pervasif intelligents systems.
+- 🌱 I’m currently a research engineer with specialization in machine learning and AI.
 - 💞️ I’m looking to collaborate on researchs in machine learning...
 - 📫 How to reach me:  my email aidabenaziza96@gmail.com .
 
