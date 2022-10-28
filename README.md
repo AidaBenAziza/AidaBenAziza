@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and data science.
 - 🌱 I’m currently a research engineer in pervasif intelligents systems.
 - 💞️ I’m looking to collaborate on researchs in machine learning...
-- 📫 How to reach me with my email aidabenaziza96@gmail.com .
+- 📫 How to reach me:  my email aidabenaziza96@gmail.com .
 
 
 <!---
